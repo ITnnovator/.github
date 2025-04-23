@@ -21,17 +21,17 @@ To help businesses grow by delivering cutting-edge digital solutions that align 
 
 ## 💡 Why Choose ITnnovator?
 
-- Customized digital strategies
-- Responsive and modern design solutions
-- Measurable results and data-driven decisions
-- Dedicated support and collaboration
+- Customized digital strategies  
+- Responsive and modern design solutions  
+- Measurable results and data-driven decisions  
+- Dedicated support and collaboration  
 
 ## 📫 Let's Connect
 
 Whether you're a startup or an established enterprise, ITnnovator is ready to take your digital presence to the next level.
 
-👉 Visit us at [Your Website URL]  
-📧 Contact: [Your Contact Email]
+👉 Visit us at [https://itnnovator.com](https://itnnovator.com)  
+📧 Contact: [info@itnnovator.com](mailto:info@itnnovator.com)
 
 ---
 
